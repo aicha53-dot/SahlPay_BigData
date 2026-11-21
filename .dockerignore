@@ -1,0 +1,10 @@
+.git
+.env
+jars/
+data/
+captures/
+rapport/
+results/
+__pycache__/
+*.pyc
+.venv/

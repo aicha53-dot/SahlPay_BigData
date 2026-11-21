@@ -1,0 +1,15 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+*.pyc
+*.log
+data/raw/
+data/generated/
+checkpoints/
+
+jars/
+
+data/
